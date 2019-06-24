@@ -1,6 +1,7 @@
 # myDIY-66-1
 Mini Oscilloscope (OLED, Arduino)
 
+<code>
 
 {
   "SecureIoT": {
@@ -103,3 +104,4 @@ Mini Oscilloscope (OLED, Arduino)
   "display": "SecureIoT Assets",
   "repository": "https://jsoneditoronline.org/?id=e858c122af57464fa50c0b4cac9b28d0"
 }
+</code
